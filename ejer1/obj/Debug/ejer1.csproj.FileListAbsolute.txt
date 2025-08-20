@@ -1,0 +1,11 @@
+E:\Users\Pavilion\source\repos\ejer1\ejer1\bin\Debug\ejer1.exe.config
+E:\Users\Pavilion\source\repos\ejer1\ejer1\bin\Debug\ejer1.exe
+E:\Users\Pavilion\source\repos\ejer1\ejer1\bin\Debug\ejer1.pdb
+E:\Users\Pavilion\source\repos\ejer1\ejer1\obj\Debug\ejer1.csproj.AssemblyReference.cache
+E:\Users\Pavilion\source\repos\ejer1\ejer1\obj\Debug\ejer1.Form1.resources
+E:\Users\Pavilion\source\repos\ejer1\ejer1\obj\Debug\ejer1.Properties.Resources.resources
+E:\Users\Pavilion\source\repos\ejer1\ejer1\obj\Debug\ejer1.csproj.GenerateResource.cache
+E:\Users\Pavilion\source\repos\ejer1\ejer1\obj\Debug\ejer1.csproj.CoreCompileInputs.cache
+E:\Users\Pavilion\source\repos\ejer1\ejer1\obj\Debug\ejer1.exe
+E:\Users\Pavilion\source\repos\ejer1\ejer1\obj\Debug\ejer1.pdb
+E:\Users\Pavilion\source\repos\ejer1\ejer1\obj\Debug\ejer1.exe.config
