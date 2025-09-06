@@ -1,0 +1,11 @@
+E:\Users\Pavilion\source\repos\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe.config
+E:\Users\Pavilion\source\repos\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe
+E:\Users\Pavilion\source\repos\GestorTareas\GestorTareas\bin\Debug\GestorTareas.pdb
+E:\Users\Pavilion\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.AssemblyReference.cache
+E:\Users\Pavilion\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.Form1.resources
+E:\Users\Pavilion\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.Properties.Resources.resources
+E:\Users\Pavilion\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.GenerateResource.cache
+E:\Users\Pavilion\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.CoreCompileInputs.cache
+E:\Users\Pavilion\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.exe
+E:\Users\Pavilion\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.pdb
+E:\Users\Pavilion\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.exe.config
