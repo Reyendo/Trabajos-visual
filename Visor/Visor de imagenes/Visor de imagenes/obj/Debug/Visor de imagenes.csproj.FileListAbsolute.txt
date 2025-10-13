@@ -1,0 +1,11 @@
+E:\Users\Pavilion\Downloads\guia8\Visor\Visor de imagenes\Visor de imagenes\bin\Debug\Visor de imagenes.exe.config
+E:\Users\Pavilion\Downloads\guia8\Visor\Visor de imagenes\Visor de imagenes\bin\Debug\Visor de imagenes.exe
+E:\Users\Pavilion\Downloads\guia8\Visor\Visor de imagenes\Visor de imagenes\bin\Debug\Visor de imagenes.pdb
+E:\Users\Pavilion\Downloads\guia8\Visor\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.AssemblyReference.cache
+E:\Users\Pavilion\Downloads\guia8\Visor\Visor de imagenes\Visor de imagenes\obj\Debug\Visor_de_imagenes.Form1.resources
+E:\Users\Pavilion\Downloads\guia8\Visor\Visor de imagenes\Visor de imagenes\obj\Debug\Visor_de_imagenes.Properties.Resources.resources
+E:\Users\Pavilion\Downloads\guia8\Visor\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.GenerateResource.cache
+E:\Users\Pavilion\Downloads\guia8\Visor\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.CoreCompileInputs.cache
+E:\Users\Pavilion\Downloads\guia8\Visor\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.exe
+E:\Users\Pavilion\Downloads\guia8\Visor\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.pdb
+E:\Users\Pavilion\Downloads\guia8\Visor\Visor de imagenes\Visor de imagenes\obj\Debug\Visor de imagenes.exe.config
